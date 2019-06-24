@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE: How to change the style of a parent node's selection checkbox if some of its child nodes are selected
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2157)**
+<!-- run online end -->
 
 
 <p><strong>N</strong><strong>o</strong><strong>te:</strong> Starting with version v2011 vol 1, ASPxTreeList provides the option to automatically highlight a parent node if some of its child nodes are selected:<br />
